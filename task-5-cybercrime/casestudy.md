@@ -1,5 +1,8 @@
 Case Study: The "Digital Lutera" UPI Bypass
+
 SOURCE LINK :-https://economictimes.indiatimes.com/news/india/cyber-fraudsters-using-new-tech-to-bypass-upi-security-for-financial-transactions-report/articleshow/129446735.cms?from=mdr
+
+
 The Crime: Device-Trust Manipulation
 The crime is a sophisticated form of Account Takeover (ATO) fraud that utilizes a specialized malware toolkit known as "Digital Lutera." Unlike standard phishing, which relies on social engineering to steal a PIN, this "structural attack" bypasses the core security pillar of UPI: SIM-binding. By compromising the smartphone's operating system, fraudsters can register and control a victim’s UPI account on a completely different device without ever possessing the physical SIM card.
 
