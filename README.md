@@ -74,3 +74,20 @@ Researched online threats to help peers recognize and avoid common scams.
 
 
 *Safety Resource: A "Stay Safe Online" prevention guide specifically for students in India.
+
+##Repository Structure
+
+
+The files in this repository are organized as follows:
+
+*report/: Contains the full project report (PDF/Docx).
+
+*task-1-presentation/: Digital Literacy infographic.
+
+*task-2-portfolio/: Screenshots of professional profiles.
+
+*task-3-platforms/: Proof of coding challenges and Google Form/Sheet screenshots.
+
+*task-4-email-etiquette/: Email drafts and social media checklist.
+
+*task-5-cybercrime/: Case study and prevention guide.
