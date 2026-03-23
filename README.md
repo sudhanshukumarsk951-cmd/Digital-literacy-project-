@@ -70,7 +70,7 @@ Focused on mastering professional email etiquette and responsible social media b
 Researched online threats to help peers recognize and avoid common scams.
 
 
-*Case Study Topic: [e.g., Phishing / UPI Fraud].
+*Case Study Topic: : The "Digital Lutera" UPI Bypass.
 
 
 *Safety Resource: A "Stay Safe Online" prevention guide specifically for students in India.
